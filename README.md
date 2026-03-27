@@ -37,14 +37,12 @@ switch2.
 •  Another end of lamp holder is connected to neutral line.
 •  Screw the accessories on the board and switch on the supply.
 •  Circuit is tested for all possible combination of switch positions.
+<img width="599" height="778" alt="Screenshot 2026-03-27 101919" src="https://github.com/user-attachments/assets/31fefe2b-d99b-4a0f-9f41-df157b999379" />
+<img width="601" height="794" alt="Screenshot 2026-03-27 101929" src="https://github.com/user-attachments/assets/24b82bb0-0908-415f-9b01-a31209ff1d7c" />
+<img width="600" height="798" alt="Screenshot 2026-03-27 101944" src="https://github.com/user-attachments/assets/48f46847-0b1d-4fe1-9776-e8d74d18490e" />
+<img width="593" height="777" alt="Screenshot 2026-03-27 101957" src="https://github.com/user-attachments/assets/d6a592f6-9197-4243-a941-8a055e5b08c1" />
+<img width="598" height="803" alt="Screenshot 2026-03-27 102008" src="https://github.com/user-attachments/assets/6de5b6c0-7f38-44c4-b2f2-161bc80783f0" />
 
-
-Direct connection: CIRCUIT DIAGRAM: 
-Tabulation:1
-	
-Cross connection: CIRCUIT DIAGRAM:
-
-Tabulation:2
 
 RESULT:
 Thus the staircase wiring is connected and tested.
